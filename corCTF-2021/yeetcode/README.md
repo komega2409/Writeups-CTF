@@ -89,7 +89,8 @@ for i in range(33):
 print(flag)
 ```
 #### Run solve.py:
-Result: ```
+Result:
+```
 c
 co
 cor
