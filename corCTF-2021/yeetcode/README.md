@@ -11,7 +11,7 @@ import random, epicbox, os
 # docker pull 
 
 epicbox.configure(
-    profiles=[
+    profiles=[Cancel changes
         epicbox.Profile('python', 'python:3.9.6-alpine')
     ]
 )
@@ -125,4 +125,4 @@ corctf{1m4g1n3_cp_g0lf_6a318dfe
 corctf{1m4g1n3_cp_g0lf_6a318dfe}
 corctf{1m4g1n3_cp_g0lf_6a318dfe}
 ```
-flag: `corctf{1m4g1n3_cp_g0lf_6a318dfe}'
+flag: `corctf{1m4g1n3_cp_g0lf_6a318dfe}`
