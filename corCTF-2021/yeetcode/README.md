@@ -88,3 +88,40 @@ for i in range(33):
             break
 print(flag)
 ```
+#### Run solve.py:
+Result: ```
+c
+co
+cor
+corc
+corct
+corctf
+corctf{
+corctf{1
+corctf{1m
+corctf{1m4
+corctf{1m4g
+corctf{1m4g1
+corctf{1m4g1n
+corctf{1m4g1n3
+corctf{1m4g1n3_
+corctf{1m4g1n3_c
+corctf{1m4g1n3_cp
+corctf{1m4g1n3_cp_
+corctf{1m4g1n3_cp_g
+corctf{1m4g1n3_cp_g0
+corctf{1m4g1n3_cp_g0l
+corctf{1m4g1n3_cp_g0lf
+corctf{1m4g1n3_cp_g0lf_
+corctf{1m4g1n3_cp_g0lf_6
+corctf{1m4g1n3_cp_g0lf_6a
+corctf{1m4g1n3_cp_g0lf_6a3
+corctf{1m4g1n3_cp_g0lf_6a31
+corctf{1m4g1n3_cp_g0lf_6a318
+corctf{1m4g1n3_cp_g0lf_6a318d
+corctf{1m4g1n3_cp_g0lf_6a318df
+corctf{1m4g1n3_cp_g0lf_6a318dfe
+corctf{1m4g1n3_cp_g0lf_6a318dfe}
+corctf{1m4g1n3_cp_g0lf_6a318dfe}
+```
+flag: `corctf{1m4g1n3_cp_g0lf_6a318dfe}'
